@@ -1,5 +1,9 @@
 # OneCity
-中移集成（雄安产业研究院）首届OneCity编程大赛Baseline 线上分数0.96+
+中移集成（雄安产业研究院）首届OneCity编程大赛
+
+* 初赛Baseline 线上 0.96+
+
+* 复赛Rank 15 线上 0.9245
 
 ## Note
 
